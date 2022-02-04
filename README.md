@@ -1,4 +1,4 @@
-<img src="http://erinsinsidejob.com/wp-content/uploads/2016/01/mercari.gif">
+<img src="https://retailinasia.com/wp-content/uploads/2020/02/Mercari-770x478.png">
 
 Mercari, Japan's biggest community-powered shopping app provides a marketplace for seller to sell a wide variety of products. Mercari would like to offer a pricing suggesition to its sellers. This is a tough task considering the huge amout of products solds online. Also items such as clothings have seasonal pricing trends and are higly influenced by brand names, while prices of electronics are influenced by spec of the product among other factors.
 
