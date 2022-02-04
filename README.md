@@ -6,7 +6,7 @@ The task is to build an algorithm that automatically suggests the right product 
 
 ### Dataset
 
-The data consist of a list of product listings. These files are tab-delimited.
+The data consist of a list of product listings:
 - train_id or test_id - the id of the listing
 - name - the title of the listing. 
 - item_condition_id - the condition of the items provided by the seller
