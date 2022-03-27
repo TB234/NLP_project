@@ -2,7 +2,7 @@
 
 Mercari, Japan's biggest community-powered shopping app provides a marketplace for seller to sell a wide variety of products. Mercari would like to offer a pricing suggesition to its sellers. This is a tough task considering the huge amout of products solds online. Also items such as clothings have seasonal pricing trends and are higly influenced by brand names, while prices of electronics are influenced by spec of the product among other factors.
 
-The task is to build an algorithm that automatically suggests the right product prices based on user-input text descriptions of their products, including details like product category name, brand name, and item condition.
+The task is to build an algorithm that automatically suggests the right product prices based on provided details such as  product descriptions, product category, brand name, and product condition.
 
 ### Dataset
 
